@@ -8,3 +8,5 @@ Module1: (Did all parts) https://users.metropolia.fi/~irums/FullStack/Javascript
   Module 2: (Did all parts) https://users.metropolia.fi/~irums/FullStack/Javascript_Assignments/Module2/ {27 points}
 
   DOM Assignments: (Did all parts) https://users.metropolia.fi/~irums/FullStack/Javascript_Assignments/DOM-Assignments/ {22 points}
+
+  Event Assignments: (Did both parts) https://users.metropolia.fi/~irums/FullStack/Javascript_Assignments/Event-Assignments/ {24 points}
