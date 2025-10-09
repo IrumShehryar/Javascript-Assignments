@@ -10,3 +10,5 @@ Module1: (Did all parts) https://users.metropolia.fi/~irums/FullStack/Javascript
   DOM Assignments: (Did all parts) https://users.metropolia.fi/~irums/FullStack/Javascript_Assignments/DOM-Assignments/ {22 points}
 
   Event Assignments: (Did both parts) https://users.metropolia.fi/~irums/FullStack/Javascript_Assignments/Event-Assignments/ {24 points}
+
+  AJAX Assignments : (DId all parts) https://users.metropolia.fi/~irums/FullStack/Javascript_Assignments/ajax%20assignment/ {24 points}
