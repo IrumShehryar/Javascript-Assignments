@@ -3,8 +3,6 @@
 This repository contains my JavaScript assignment modules for coursework and practice.  
 Each module has its own HTML and JS files. Live demos are hosted on Metropolia’s server (see links below).
 
-Note: The live demos will not work as assignments were deployed on Metropolia Server and they are no longer functional
-
 ## Modules & Assignments
 
 - **Module 1**  
